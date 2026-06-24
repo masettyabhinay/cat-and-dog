@@ -39,8 +39,6 @@ cat-and-dog/
 ├── svm_cat_dog.py
 ├── requirements.txt
 ├── README.md
-├── training_set/
-└── test_set/
 ```
 
 ## Installation
